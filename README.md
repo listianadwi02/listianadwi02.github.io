@@ -1,4 +1,4 @@
-# PORTOFOLIO
+# Portofolio Listi
 ---
 ## Visualisasi Data menggunakan Python
 Contoh visualisasi data sederhana dengan bentuk histogram
